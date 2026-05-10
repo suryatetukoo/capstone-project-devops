@@ -1,1 +1,1 @@
-# capstone-project-devops
+# Capstone Project DevOps
